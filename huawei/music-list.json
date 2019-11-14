@@ -4,8 +4,8 @@
       "title": "放开",
       "author": "爱乐团",
       "albumn": "放开",
-      "lyric": "https://github.com/wwfstrong/data/blob/master/lyric_放开.json",
-      "url": "https://github.com/wwfstrong/data/放开.mp3"
+      "lyric": "https://wwfstrong.github.io/wwf-data/huawei-music/lyric_放开.json",
+      "url": "https://wwfstrong.github.io/wwf-data/huawei-music/放开.mp3"
   },
   {
     "id": "1",
@@ -13,7 +13,7 @@
     "author": "爱乐团",
     "albumn": "放开",
     "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_后来的我们.json",
-    "url": "https://github.com/wwfstrong/data/死而无憾.mp3"
+    "url": "https://wwfstrong.github.io/wwf-data/huawei-music/死而无憾.mp3"
   },
   {
     "id": "2",
@@ -21,6 +21,6 @@
     "author": "爱乐团",
     "albumn": "天涯",
     "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_假装.json",
-    "url": "https://github.com/wwfstrong/data/天涯.mp3"
+    "url": "https://wwfstrong.github.io/wwf-data/huawei-music/天涯.mp3"
   },
   ]
