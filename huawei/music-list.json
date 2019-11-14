@@ -1,0 +1,26 @@
+[ 
+  {
+      "id": "0",
+      "title": "放开",
+      "author": "爱乐团",
+      "albumn": "放开",
+      "lyric": "https://github.com/wwfstrong/data/blob/master/lyric_放开.json",
+      "url": "https://github.com/wwfstrong/data/放开.mp3"
+  },
+  {
+    "id": "1",
+    "title": "死而无憾",
+    "author": "爱乐团",
+    "albumn": "放开",
+    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_后来的我们.json",
+    "url": "https://github.com/wwfstrong/data/死而无憾.mp3"
+  },
+  {
+    "id": "2",
+    "title": "天涯",
+    "author": "爱乐团",
+    "albumn": "天涯",
+    "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_假装.json",
+    "url": "https://github.com/wwfstrong/data/天涯.mp3"
+  },
+  ]
